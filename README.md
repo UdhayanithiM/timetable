@@ -111,10 +111,12 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](http://udhayanithi.student.saveetha.in/static/images/out4.png?raw=true)
+![out4](https://user-images.githubusercontent.com/127933352/233175624-3f750904-8788-4395-b0d1-3fee56370f47.png)
+
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://udhayanithi.student.saveetha.in/static/images/out5.png?raw=true)
+
+![out5](https://user-images.githubusercontent.com/127933352/233175675-1e31e32f-173e-47b5-bc57-8bfb4857383a.png)
 
 
 # RESULT
